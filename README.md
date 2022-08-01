@@ -1,5 +1,8 @@
 # InterMacro-Tute-slides
-Tutorial slides for Intermediate Macroeconomics at the University of Melbourne. Subject to copy right!
+
+Tutorial slides prepared by Zheng Fan for Intermediate Macroeconomics at the University of Melbourne. 
+
+Subject to copy right! You should not disseminate, distribute or copy. 
 
 All the materials presented are based on the questions and solutions provided on Canvas by the lecturer.
 
