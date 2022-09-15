@@ -1,4 +1,4 @@
-# InterMacro-Tute-slides
+# InterMacro2022-Tute-slides
 
 Tutorial slides prepared by Zheng Fan for Intermediate Macroeconomics at the University of Melbourne. 
 
